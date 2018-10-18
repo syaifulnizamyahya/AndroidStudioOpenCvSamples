@@ -1,0 +1,37 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Project\\Android\\OpenCvSamples\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Project\\Android\\OpenCvSamples\\color-blob-detection\\openCVLibrary343\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\Android\\OpenCvSamples\\color-blob-detection\\openCVSamplecolorblobdetection\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "61",
+                        "endOffsets": "112"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "366",
+                        "endColumns": "61",
+                        "endOffsets": "423"
+                    }
+                }
+            ]
+        }
+    ]
+}

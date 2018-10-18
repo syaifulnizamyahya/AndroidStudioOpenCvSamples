@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\OpenCvSamples\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Project\\Android\\OpenCvSamples\\color-blob-detection\\openCVSamplecolorblobdetection\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\OpenCvSamples\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\merged\\debug\\layout_color_blob_detection_surface_view.xml.flat",
+        "source": "D:\\Project\\Android\\OpenCvSamples\\color-blob-detection\\openCVSamplecolorblobdetection\\src\\main\\res\\layout\\color_blob_detection_surface_view.xml"
+    }
+]

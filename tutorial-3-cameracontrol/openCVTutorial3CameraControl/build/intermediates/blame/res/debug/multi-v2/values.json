@@ -1,0 +1,37 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Project\\Android\\OpenCvSamples\\tutorial-3-cameracontrol\\openCVTutorial3CameraControl\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\Android\\OpenCvSamples\\tutorial-3-cameracontrol\\openCVTutorial3CameraControl\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "366",
+                        "endColumns": "58",
+                        "endOffsets": "420"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\Android\\OpenCvSamples\\tutorial-3-cameracontrol\\openCVLibrary343\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    }
+                }
+            ]
+        }
+    ]
+}

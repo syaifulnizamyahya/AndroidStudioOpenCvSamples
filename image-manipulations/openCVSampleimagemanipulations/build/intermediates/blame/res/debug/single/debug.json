@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\OpenCvSamples\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Project\\Android\\OpenCvSamples\\image-manipulations\\openCVSampleimagemanipulations\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\OpenCvSamples\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\res\\merged\\debug\\layout_image_manipulations_surface_view.xml.flat",
+        "source": "D:\\Project\\Android\\OpenCvSamples\\image-manipulations\\openCVSampleimagemanipulations\\src\\main\\res\\layout\\image_manipulations_surface_view.xml"
+    }
+]

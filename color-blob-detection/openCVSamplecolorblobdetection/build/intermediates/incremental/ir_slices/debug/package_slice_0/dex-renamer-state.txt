@@ -1,0 +1,4 @@
+#Thu Oct 18 12:51:13 SGT 2018
+base.0=D\:\\Project\\Android\\OpenCvSamples\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
